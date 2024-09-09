@@ -1,0 +1,25 @@
+Development in 2007
+
+Concurrency
+
+Go was designed to run in multiple cores and builu to support Concurrency [cheap and easy]
+
+
+Use cases:
+Basically creating performant application [RUNNING ON SCALED DISTRIBUTED SYSTEMS]
+
+
+
+ Characteristics
+
+  - simple and readable of dynamically typed language like python
+  - Efficenct and safety of a low level language, stactically typed like c++
+  - Resurce efficient
+  - compilation is fast
+
+  Examples written in Go:
+
+  Docker, HarshCorp Vault , Cockroach DB 
+   
+
+Core concepts and Syntax:
