@@ -1,5 +1,6 @@
 package main //		mUST belong to a package
 
+
 import "fmt" //comtainers of various applications check the documentations for packages
 //entry point where do i start excuting the code
 //should be a function

@@ -23,3 +23,8 @@ Basically creating performant application [RUNNING ON SCALED DISTRIBUTED SYSTEMS
    
 
 Core concepts and Syntax:
+
+
+// var arrayName [size]elementType
+
+
